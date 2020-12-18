@@ -5,7 +5,7 @@ Professional C++11/14 & Boost Development Guide
 
 ## Requirements
 * Linux or other UNIX like
-* C++11(gcc 4.6 or later)
+* C++11 -(gcc 4.6 or later)
 * Boost(1.60 or later)
 
 ## See Also
